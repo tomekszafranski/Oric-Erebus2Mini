@@ -16,8 +16,8 @@ This project is mini version of GAL based EREBUS II:
 
 ## Remarks
 
-* The only probelm I had was SD card that didn't work. Card should be less then 2GB, formatted to FAt16, no folders, 8.3 names recommended
-* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also new software is developed - find it on [itch.io](https://itch.io)
+* The only probelm I had was SD card that didn't work. Card should be less then 2GB, formatted to FAT16, no folders, 8.3 names recommended
+* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also, new software is developed - find it on [itch.io](https://itch.io)
 
 Have fun!
 
