@@ -8,7 +8,7 @@ Extension port allows today to build simple solution to read programs from SD ca
 
 * The PCB is much smaller then original EREBUS (and EREBUS II as well)
 * PCB is directly (without IDC cable) connected to Oric extension port
-* Additionaly, there is Reset switch :-) because not-easily-accessible switch on bottom is NMI.
+* There is Reset switch :-) because not-easily-accessible switch on bottom is in fact NMI.
 
 Have fun!
 
