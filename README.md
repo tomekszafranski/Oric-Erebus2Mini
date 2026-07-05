@@ -2,7 +2,7 @@
 
 ## Description
 
-Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Computer Systems to compete with Sinclair ZX Spectrum. The success however, was very limited at best. Both machines differed only in keyboard and utilized 6502 processor, 16KB ROM, 48KB RAM and used tape as storage, they were also equipped with ports for printer and extensions.
+Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Computer Systems to compete with Sinclair ZX Spectrum. The success however, was very limited at best. Both machines differed only in keyboard and utilized 6502 processor, 16KB ROM, 48KB RAM and used tape as storage. They were also equipped with ports for printer and extensions.
 
 Extension port allows today to build simple solution to read programs from SD card. The solution is called EREBUS and consist of couple of gates and flip-flops and 64KB of ROM. This project is mini version based on its mix called EREBUS II that uses GAL insted of mentioned logic gates:
 
