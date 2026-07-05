@@ -10,14 +10,14 @@ Extension port allows today to build simple device to read programs from SD card
 
 This project is mini version of GAL based EREBUS II:
 
-* The PCB is much smaller then original EREBUS (and EREBUS II as well)
+* The PCB is much smaller then original EREBUS and EREBUS II
 * PCB is directly (without IDC cable) connected to Oric extension port
 * There is Reset switch :-) because not-easily-accessible switch on bottom is in fact NMI.
 
 ## Remarks
 
 * The only probelm I had was SD that didn't work
-* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23)
+* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also new software was developed in 21st century, find it on [itch.io](itch.io)
 
 Have fun!
 
