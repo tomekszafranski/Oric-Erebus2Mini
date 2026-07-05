@@ -17,7 +17,7 @@ This project is mini version of GAL based EREBUS II:
 ## Remarks
 
 * The only probelm I had was SD that didn't work
-* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also new software was developed in 21st century, find it on [itch.io](itch.io)
+* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also new software is developed - find it on [itch.io](https://itch.io)
 
 Have fun!
 
