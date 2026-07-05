@@ -4,7 +4,7 @@
 
 Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Computer Systems to compete with Sinclair ZX Spectrum. The success however, was very limited at best. Both machines differed only in keyboard and utilized 6502 processor, 16KB ROM, 48KB RAM, AY 3-8912 sound and used tape as storage. They were also equipped with ports for printer and extensions.
 
-Extension port allows today to build simple solution to read programs from SD card. The solution is called EREBUS and consist of couple of gates and flip-flops and 64KB of ROM. There is also [another version](https://github.com/f4goh/oric/tree/main/Erebus) that uses GAL insted of mentioned logic gates. THIS project is its mini version:
+Extension port allows today to build simple device to read programs from SD card. The solution is called EREBUS and consist of couple of gates and flip-flops and 64KB of ROM (could be found on ebay but finding source files is very difficult). There is also [another version](https://github.com/f4goh/oric/tree/main/Erebus) that uses GAL insted of mentioned logic gates (which in turn is based on CPLD version). THIS project is its mini version:
 
 * The PCB is much smaller then original EREBUS (and EREBUS II as well)
 * PCB is directly (without IDC cable) connected to Oric extension port
