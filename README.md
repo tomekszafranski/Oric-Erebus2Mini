@@ -14,6 +14,11 @@ This project is mini version of GAL based EREBUS II:
 * PCB is directly (without IDC cable) connected to Oric extension port
 * There is Reset switch :-) because not-easily-accessible switch on bottom is in fact NMI.
 
+## Remarks
+
+* The only probelm I had was SD that didn't work
+* Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23)
+
 Have fun!
 
 Tomek
