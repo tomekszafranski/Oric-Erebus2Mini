@@ -11,15 +11,15 @@ Extension port allows today to use simple device to read programs from SD card i
 This project is mini version of GAL based EREBUS II:
 
 * The PCB is much smaller then EREBUS II and original EREBUS
-* Module is directly (without IDC cable) connected to Oric extension port
-* There is Reset switch :-) because not-easily-accessible-button on the bottom of machine is in fact NMI.
+* Module can be connected directly (without IDC cable) to Oric extension port
+* There is Reset switch :-) because not-easily-accessible-button on the bottom of the case is in fact NMI.
   
 <img width="1054" height="1003" alt="EREBUS-II-Mini-schematic" src="https://github.com/user-attachments/assets/5ce2d2ba-504e-4277-8daf-6bdb8b8e2444" />
 
 ## Remarks
 
-* GAL program is taken from [EREBUS II version](https://github.com/f4goh/oric/tree/main/Erebus). Thank you!
-* The only probelm I had while preparing this was SD card that didn't work. Card should be less then 2GB, formatted to FAT16, no folders, 8.3 names recommended
+* GAL22V10 program is taken from [EREBUS II version](https://github.com/f4goh/oric/tree/main/Erebus). Thank you!
+* The only probelm I had while preparing this extension was SD card that didn't work. Card should be less then 2GB, formatted to FAT16, no folders, 8.3 names recommended
 * Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also, new software is developed - find it on [itch.io](https://itch.io)
 
 Have fun!
