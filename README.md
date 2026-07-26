@@ -10,9 +10,9 @@ Extension port allows today to use simple device to read programs from SD card i
 
 This project is mini version of GAL based EREBUS II:
 
-* The PCB is much smaller then original EREBUS and EREBUS II
+* The PCB is much smaller then EREBUS II and original EREBUS
 * Module is directly (without IDC cable) connected to Oric extension port
-* There is Reset switch :-) because not-easily-accessible-button on the bottom is in fact NMI.
+* There is Reset switch :-) because not-easily-accessible-button on the bottom of machine is in fact NMI.
 
 ## Remarks
 
