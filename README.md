@@ -1,4 +1,4 @@
-# Mini EREBUS II for Oric-1/Atmos
+# EREBUS II Mini for Oric-1/Atmos
 
 ## Story
 
