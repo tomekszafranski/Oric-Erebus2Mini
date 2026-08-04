@@ -1,5 +1,6 @@
 
 
+
 # EREBUS II Mini for Oric-1/Atmos
 
 ## Story
@@ -21,7 +22,9 @@ This project is mini version of GAL based EREBUS II:
 <img width="1054" height="1003" alt="EREBUS-II-Mini-schematic" src="https://github.com/user-attachments/assets/5ce2d2ba-504e-4277-8daf-6bdb8b8e2444" />
 
 
+<img width="1889" height="2028" alt="925439df-7a89-4314-bb3d-89eb3ab42cc7" src="https://github.com/user-attachments/assets/680d29ab-17ef-4b08-8efa-75df063593a9" />
 
+<img width="1920" height="1472" alt="d30d8efa-2550-4f0e-ab27-b72c954c8e9f" src="https://github.com/user-attachments/assets/ece91541-1707-4edb-9829-83774568fe52" />
 
 
 ## Remarks
