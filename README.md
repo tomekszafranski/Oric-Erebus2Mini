@@ -4,7 +4,9 @@
 
 Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Computer Systems to compete with Sinclair ZX Spectrum. In spite of being interesting ones, their success was very limited at best. Both machines differed only in keyboard and utilized: 6502 processor, 16KB ROM, 48KB RAM, AY 3-8912 based sound and used cassette tape as storage. They were also equipped with printer and extension ports.
 
-Extension port allows today to use simple device to read programs from SD card instead of tape. The device is called EREBUS and consist of couple of logic gates and flip-flops and 64KB of ROM. EREBUS can be found on ebay but it's really hard to find its sources. What can be found is [EREBUS II version](https://github.com/f4goh/oric/tree/main/Erebus) by Kenneth that uses GAL instead of logic gates, which in turn is based on [another CPLD version](https://github.com/Fred72z/ORIC/tree/main/BUS_ORIC/Extensions/Erebus) by Fred72. It is also worth mentioning that Oric I use had problems with EREBUS application and works nicely with EREBUS II.
+Extension port allows today to use simple device to read programs from SD card instead of tape. The device is called EREBUS and consist of couple of logic gates and flip-flops and 64KB of ROM. EREBUS can be bought on ebay but it's hard to find its sources. What can be found is [EREBUS II version](https://github.com/f4goh/oric/tree/main/Erebus) by Kenneth that uses GAL instead of logic gates, which in turn is based on [earlier CPLD version](https://github.com/Fred72z/ORIC/tree/main/BUS_ORIC/Extensions/Erebus) by Fred72. 
+
+It is also worth mentioning that Oric I use had problems working with EREBUS and works nicely with EREBUS II.
 
 ## Description
 
@@ -12,7 +14,7 @@ This project is mini version of GAL based EREBUS II:
 
 * The PCB is much smaller then EREBUS II and original EREBUS
 * Module can be connected directly (without IDC cable) to Oric extension port
-* There is Reset switch :-) because not-easily-accessible-button on the bottom of the case is in fact NMI.
+* There is Reset switch :-) because not-easily-accessible-button on the bottom of Oric's case is in fact NMI.
   
 <img width="1054" height="1003" alt="EREBUS-II-Mini-schematic" src="https://github.com/user-attachments/assets/5ce2d2ba-504e-4277-8daf-6bdb8b8e2444" />
 
