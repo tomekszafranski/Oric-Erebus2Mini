@@ -22,6 +22,7 @@ This project is mini version of GAL based EREBUS II:
 
 * Content of the EPROM and GAL22V10 program are taken from [EREBUS II version](https://github.com/f4goh/oric/tree/main/Erebus). Thank you!
 * The only problem I had while building this extension was SD card that didn't work. Card should be less then 2GB, formatted to FAT16, no folders, 8.3 names recommended - if a card doesn't work, try another
+* if you want to have compact design, do not use sockets for 74LS73 chips under the SD card reader
 * Oric software can be found in [Internet Archive](https://archive.org/details/Tangerine_Oric_1_and_Atmos_TOSEC_2012_04_23) also, new software is developed - find it on [itch.io](https://itch.io)
 
 Have fun!
