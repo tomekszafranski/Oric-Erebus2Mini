@@ -6,7 +6,7 @@ Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Co
 
 Extension port allows today to use simple device to read programs from SD card instead of tape. The device is called EREBUS and consist of couple of logic gates and flip-flops and 64KB of ROM. EREBUS can be bought on ebay but it's hard to find its sources. What can be found is [EREBUS II version](https://github.com/f4goh/oric/tree/main/Erebus) by Kenneth that uses GAL instead of logic gates, which in turn is based on [CPLD version](https://github.com/Fred72z/ORIC/tree/main/BUS_ORIC/Extensions/Erebus) by Fred72. 
 
-It is also worth mentioning that Oric machine I have had problems working with EREBUS and works nicely with EREBUS II.
+It is also worth mentioning that Oric machine I have had problems working with EREBUS and worked nicely with EREBUS II.
 
 ## Description
 
