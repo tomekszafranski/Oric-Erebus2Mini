@@ -14,7 +14,7 @@ This project is mini version of GAL based EREBUS II:
 
 * The PCB is much smaller then EREBUS II and original EREBUS
 * Module is supposed to be connected directly (without IDC cable) to Oric's extension port
-* There is Reset switch :-) because not-easily-accessible-button on the bottom of Oric's case is in fact NMI.
+* There is reset switch :-) because not-easily-accessible-button on the bottom of Oric's case is in fact NMI.
   
 <img width="1054" height="1003" alt="EREBUS-II-Mini-schematic" src="https://github.com/user-attachments/assets/5ce2d2ba-504e-4277-8daf-6bdb8b8e2444" />
 
