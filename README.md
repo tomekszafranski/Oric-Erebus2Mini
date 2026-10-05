@@ -3,7 +3,7 @@
 
 # EREBUS II Mini for Oric-1/Atmos
 
-## Story
+## Background
 
 Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Computer Systems to compete with Sinclair ZX Spectrum. In spite of being interesting ones, their success was very limited. Both machines differed only in keyboard and utilized: 6502 processor, 16KB ROM, 48KB RAM, AY 3-8912 based sound and used cassette tape as storage. They were also equipped with printer and extension ports.
 
